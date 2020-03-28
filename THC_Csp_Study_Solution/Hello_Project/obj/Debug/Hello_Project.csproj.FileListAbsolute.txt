@@ -1,0 +1,7 @@
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\bin\Debug\Hello_Project.exe.config
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\bin\Debug\Hello_Project.exe
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\bin\Debug\Hello_Project.pdb
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\obj\Debug\Hello_Project.csprojAssemblyReference.cache
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\obj\Debug\Hello_Project.csproj.CoreCompileInputs.cache
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\obj\Debug\Hello_Project.exe
+D:\Files\THC_Programming\VisualStudio-WorkSpace\THC_Csp_Study_Solution\Hello_Project\obj\Debug\Hello_Project.pdb
