@@ -1,0 +1,3 @@
+dog:  5
+cat: 15
+monky: 3

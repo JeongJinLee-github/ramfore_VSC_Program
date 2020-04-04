@@ -1,0 +1,4 @@
+name: redApple
+size:1 1/2
+color: red
+lot:5
